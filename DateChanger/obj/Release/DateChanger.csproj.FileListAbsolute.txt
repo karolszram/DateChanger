@@ -1,0 +1,6 @@
+C:\Users\karol.szram\Documents\Visual Studio 2015\Projects\DateChanger\DateChanger\bin\Release\DateChanger.exe.config
+C:\Users\karol.szram\Documents\Visual Studio 2015\Projects\DateChanger\DateChanger\bin\Release\DateChanger.exe
+C:\Users\karol.szram\Documents\Visual Studio 2015\Projects\DateChanger\DateChanger\bin\Release\DateChanger.pdb
+C:\Users\karol.szram\Documents\Visual Studio 2015\Projects\DateChanger\DateChanger\obj\Release\DateChanger.exe
+C:\Users\karol.szram\Documents\Visual Studio 2015\Projects\DateChanger\DateChanger\obj\Release\DateChanger.pdb
+C:\Users\karol.szram\Documents\Visual Studio 2015\Projects\DateChanger\DateChanger\obj\Release\DateChanger.csprojResolveAssemblyReference.cache
